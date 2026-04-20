@@ -161,3 +161,19 @@ Structured extraction, rule enforcement, multi-step reasoning.
 
 **Solution Code:**
 [./solutions/legal_contract_review.py](./solutions/legal_contract_review.py)
+
+---
+
+## 11. End-to-End Agile SDLC Orchestrator
+
+**Problem:**
+Coordinating multiple departments (Product, Dev, QA, Ops) in an Agile flow often creates communication silos and bottlenecks.
+
+**Solution:**
+A multi-agent LangGraph orchestrator that manages the state from high-level requirements down to operational runbooks and CI/CD planning.
+
+**Validates:**
+End-to-end SDLC state management, self-healing code loops (Test -> Fix), structured planning extraction, and artifact generation.
+
+**Solution Code:**
+[./solutions/agile_sdlc_orchestrator.py](./solutions/agile_sdlc_orchestrator.py)
