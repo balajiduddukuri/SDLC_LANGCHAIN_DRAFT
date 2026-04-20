@@ -9,6 +9,7 @@ A comprehensive LangChain-based system for generating complete Software Developm
 - **Streaming Output**: Real-time token streaming with Rich console
 - **Parallel Execution**: Run independent stages concurrently
 - **10 SDLC Stages**: Complete coverage from requirements to documentation
+- **Real-World Problem Statements**: Comprehensive list of [10 practical use cases](./PROBLEM_STATEMENTS.md) for application.
 
 ## Installation
 
